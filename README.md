@@ -28,9 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://imgur.com/a/wt7g9
-
-(Imgur no longer has direct links to files)
+https://i.imgur.com/5nJhCKg.gifv
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
